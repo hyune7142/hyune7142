@@ -18,5 +18,5 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyune7142&layout=compact)](https://github.com/hyune7142/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyune7142&langs_count=8)](https://github.com/hyune7142/github-readme-stats)
 ![hyune7142's github stats](https://github-readme-stats.vercel.app/api?username=hyune7142&show_icons=true)
