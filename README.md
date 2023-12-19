@@ -18,7 +18,7 @@
 
 #### Personal Project
 <div>
-  <a href="https://hyun-design-system.netlify.app/?path=/docs/intro--docs">Hyune Design System</a>
+  <a href="https://hyun-design-system.netlify.app/?path=/docs/intro--docs" target="_blank">Hyune Design System</a>
 </div>
 
 
