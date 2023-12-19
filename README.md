@@ -16,6 +16,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
 </div>
 
+#### Personal Project
+<div>
+  <a href="https://hyun-design-system.netlify.app/?path=/docs/intro--docs">Hyune Design System</a>
+</div>
+
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyune7142&langs_count=8)](https://github.com/hyune7142/github-readme-stats)
