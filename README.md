@@ -18,7 +18,7 @@
 
 #### React Project
 <div>
-  <a href="https://hyun-design-system.netlify.app/?path=/docs/intro--docs" target="_blank">Hyune Design System (StoryBook)</a>
+  <a href="https://hyune-design-system.netlify.app/?path=/docs/intro--docs" target="_blank">Hyune Design System (StoryBook)</a>
 </div>
 
 
