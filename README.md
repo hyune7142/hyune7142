@@ -16,8 +16,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
 </div>
 
-#### React Project
+#### Personal Project
 <div>
+  <a href="https://jeonghyeonportfolio.vercel.app/" target="_blank">Portfolio (Next.js)</a>
   <a href="https://hyune-design-system.netlify.app/?path=/docs/intro--docs" target="_blank">Hyune Design System (StoryBook)</a>
 </div>
 
