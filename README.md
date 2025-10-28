@@ -36,7 +36,7 @@ const mySkills = {
 - 🖥️ Next.js
 - 🖥️ Tailwind + ShadcnUi
 
-<br/><br/>
+<br/>
 
 ### 📫 Contact Me & Personal Project
 <br/>
@@ -45,6 +45,8 @@ const mySkills = {
   <a href="https://jeonghyeonportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://hyune-design-system.netlify.app"><img src="https://img.shields.io/badge/Design_System-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
+
+<br/>
 
 ### 📈 GitHub Stats
 <p align="center">
