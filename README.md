@@ -39,9 +39,10 @@ const mySkills = {
 <br/><br/>
 
 ### 📫 Contact Me
-- **원티드**: [Profile](https://social.wanted.co.kr//community/profile/3Ex8fTV2xaETQHkGpbB6XZ?utm_source=wanted&utm_medium=share)
-- **포트폴리오**: [Website](https://jeonghyeonportfolio.vercel.app)
-
+- **원티드**: [프로필](https://social.wanted.co.kr//community/profile/3Ex8fTV2xaETQHkGpbB6XZ?utm_source=wanted&utm_medium=share)
+- **포트폴리오**: [웹 포트폴리오](https://jeonghyeonportfolio.vercel.app)
+- **디자인시스템**: [디자인시스템](https://hyune-design-system.netlify.app)
+- 
 <br>
 ---
 
