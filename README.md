@@ -41,11 +41,16 @@ const jeonghyeon = {
 ### 📫 Contact Me & Personal Project
 <br/>
 <p align="center">
-  <a href="https://social.wanted.co.kr//community/profile/3Ex8fTV2xaETQHkGpbB6XZ?utm_source=wanted&utm_medium=share"><img src="https://img.shields.io/badge/Wanted_Profile-4285F4?style=for-the-badge&logo=wantedly&logoColor=white" /></a>
-  <a href="https://jeonghyeonportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://hyune-design-system.netlify.app"><img src="https://img.shields.io/badge/Design_System-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://social.wanted.co.kr//community/profile/3Ex8fTV2xaETQHkGpbB6XZ?utm_source=wanted&utm_medium=share" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Wanted_Profile-4285F4?style=for-the-badge&logo=wantedly&logoColor=white" />
+  </a>
+  <a href="https://jeonghyeonportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://hyune-design-system.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Design_System-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
-
 <br/>
 
 ### 📈 GitHub Stats
