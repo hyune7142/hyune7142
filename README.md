@@ -20,7 +20,7 @@
 
 ### 🛠️ My Skills
 ```javascript
-const mySkills = {
+const jeonghyeon = {
   languages:        ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
   fontend:          ['React', 'ReactNative', 'Next.js'],
   backend           ['Express', 'Spring'],
