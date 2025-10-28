@@ -57,7 +57,7 @@ const mySkills = {
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hyune7142&theme=radical" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hyune7142&theme=transparent" />
 </p>
 
 <picture>
