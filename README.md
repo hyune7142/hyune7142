@@ -34,7 +34,7 @@ const jeonghyeon = {
 ### 🌱 Learning / Interested In
 
 - 🖥️ Next.js
-- 🖥️ Tailwind + ShadcnUi
+- 🖥️ Tailwind, ShadcnUi, React-Bits
 - 🖥️ [React Compiler](https://ko.react.dev/learn/react-compiler)
 
 <br/>
