@@ -54,18 +54,6 @@ const jeonghyeon = {
 </p>
 <br/>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hyune7142&show_icons=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyune7142&layout=compact&theme=transparent" />
-</p>
-
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hyune7142&theme=transparent" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/output/github-contribution-grid-snake.svg">
