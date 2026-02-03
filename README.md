@@ -16,6 +16,7 @@
 🧩 TypeScript 환경에서의 안정적 타입 설계와 재사용성 높은 코드 구현을 지향하고 있습니다.  
 🧠 빠르게 변화하는 환경 속에서도 잘 적응하고 학습해오고 있습니다.  
 🎨 사용자 경험(UX) 중심의 인터랙티브 UI를 구현하는 데 집중합니다.  
+🤖 AI를 활용한 스펙주도개발 및 자동화에 관심이 있어요.
 
 <br/>
 
@@ -29,14 +30,6 @@ const jeonghyeon = {
   etc:              ['Git', 'GitHub', 'Gitlab', 'Figma', 'Playwright', 'AWS', 'Vercel', 'Netlify'],
 };
 ```
-
-<br/>
-
-### 🌱 Learning / Interested In
-
-- 🖥️ Next.js
-- 🖥️ Tailwind, ShadcnUi, React-Bits
-- 🖥️ [React Compiler](https://ko.react.dev/learn/react-compiler)
 
 <br/>
 
