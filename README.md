@@ -27,12 +27,21 @@
 ### 🛠️ My Skills
 ```ts
 const jeonghyeon = {
-  languages: ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
-  frontend: ['React', 'React Native', 'Next.js'],
-  backend: ['Express', 'Spring'],
-  databases: ['OracleDB', 'PostgreSQL', 'Redis'],
-  ai: ['Claude', 'Cursor', 'Codex'],
-  tools: ['Git', 'GitHub', 'GitLab', 'Figma', 'Playwright', 'AWS', 'Vercel', 'Netlify'],
+  mainStack: {
+    languages: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
+    frontend: ['React', 'React Native', 'Next.js'],
+    aiTools: ['Claude', 'Cursor', 'Codex'],
+    versionControl: ['Git', 'GitHub', 'GitLab'],
+    designCollaboration: ['Figma', 'Zeplin'],
+    projectManagement: ['Jira', 'Confluence', 'Notion'],
+  },
+  experiencedStack: {
+    languages: ['Java'],
+    backend: ['Express', 'Spring'],
+    databases: ['OracleDB', 'PostgreSQL', 'Redis'],
+    testing: ['Playwright', 'Vitest'],
+    cloudAndHosting: ['AWS', 'Vercel', 'Netlify'],
+  },
 };
 ```
 
@@ -53,6 +62,7 @@ const jeonghyeon = {
 </p>
 <br/>
 
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyune7142/hyune7142/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyune7142/hyune7142/output/github-contribution-grid-snake.svg">
