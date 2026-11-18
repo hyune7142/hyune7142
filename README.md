@@ -21,18 +21,22 @@
 const jeonghyeon = {
   mainStack: {
     languages: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
-    frontend: ['React', 'React Native', 'Next.js'],
-    aiTools: ['Claude', 'Cursor', 'Codex'],
+    frontend: ['React', 'Next.js', 'React Native', 'Expo'],
+    styling: ['Tailwind CSS', 'styled-components'],
+    stateAndData: ['Zustand', 'TanStack Query', 'React Hook Form', 'Zod'],
+    designSystem: ['Storybook', 'Design Tokens', 'Monorepo'],
+    aiTools: ['Claude Code', 'Codex', 'Cursor', 'Claude API'],
     versionControl: ['Git', 'GitHub', 'GitLab'],
-    designCollaboration: ['Figma', 'Zeplin'],
+    designCollaboration: ['Figma'],
     projectManagement: ['Jira', 'Confluence', 'Notion'],
   },
   experiencedStack: {
     languages: ['Java'],
+    stateManagement: ['Redux', 'Redux-Saga', 'Recoil'],
     backend: ['Express', 'Spring'],
     databases: ['OracleDB', 'PostgreSQL', 'Redis'],
     testing: ['Playwright', 'Vitest'],
-    cloudAndHosting: ['AWS', 'Vercel', 'Netlify'],
+    infra: ['AWS', 'Vercel', 'Netlify', 'Docker'],
   },
 };
 ```
