@@ -56,9 +56,6 @@ const jeonghyeon = {
   <a href="https://jeonghyeonportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://hyune-design-system.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Design_System-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
 </p>
 <br/>
 
