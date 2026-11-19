@@ -43,18 +43,6 @@ const jeonghyeon = {
 
 <br/>
 
-### 📫 Contact Me & Personal Project
-<br/>
-<p align="center">
-  <a href="https://social.wanted.co.kr/community/profile/3Ex8fTV2xaETQHkGpbB6XZ?utm_source=wanted&utm_medium=share" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Wanted_Profile-4285F4?style=for-the-badge&logo=wantedly&logoColor=white" />
-  </a>
-  <a href="https://jeonghyeonportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-<br/>
-
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyune7142/hyune7142/output/github-contribution-grid-snake-dark.svg">
