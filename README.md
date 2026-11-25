@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer;JeongHyeon)](https://git.io/typing-svg)
 
 <a href="https://jeonghyeonportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-172738?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://uiuxdex.com"><img src="https://img.shields.io/badge/UI_%C2%B7_UX_Dex-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" alt="UI · UX Dex" /></a>
 
 </div>
 
